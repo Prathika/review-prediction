@@ -23,3 +23,10 @@ You can install the required packages using pip:
 
 ```bash
 pip install pandas scikit-learn numpy matplotlib
+
+```
+
+## Creating the pkl file
+
+python sentiment.py will the pkl file
+
